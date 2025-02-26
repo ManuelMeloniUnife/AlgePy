@@ -7,3 +7,6 @@ __pycache__/
 # File di sistema (macOs e Win dove ho lavorato):
 .DS_Store
 Thumbs.db
+
+# Files di esempio usati per il test delle classi
+examples/
