@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "algepy"
+version = "0.1.0"
+description = "Libreria Python per algebra computazionale"
+authors = ["Manuel Meloni <manuel.meloni@edu.unife.it>"]
