@@ -1,0 +1,9 @@
+# File di cache e compilati di Python:
+__pycache__/
+*.pyc 
+*.pyo
+*.pyd
+
+# File di sistema (macOs e Win dove ho lavorato):
+.DS_Store
+Thumbs.db

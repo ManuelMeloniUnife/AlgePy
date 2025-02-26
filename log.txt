@@ -1,0 +1,50 @@
+Environment -> algebra-env [conda environment]
+Python Version -> 3.11 [stable]
+
+## Package Plan ##
+
+  environment location: /opt/anaconda3/envs/algebra-env
+
+  added / updated specs:
+    - python=3.11
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2025.2.25  |       hecd8cb5_0         131 KB
+    openssl-3.0.15             |       h46256e1_0         4.5 MB
+    pip-25.0                   |  py311hecd8cb5_0         2.9 MB
+    python-3.11.11             |       h4d6d9e5_0        15.7 MB
+    setuptools-75.8.0          |  py311hecd8cb5_0         2.2 MB
+    tzdata-2025a               |       h04d1e81_0         117 KB
+    wheel-0.45.1               |  py311hecd8cb5_0         156 KB
+    xz-5.6.4                   |       h46256e1_1         289 KB
+    ------------------------------------------------------------
+                                           Total:        25.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  bzip2              pkgs/main/osx-64::bzip2-1.0.8-h6c40b1e_6 
+  ca-certificates    pkgs/main/osx-64::ca-certificates-2025.2.25-hecd8cb5_0 
+  libffi             pkgs/main/osx-64::libffi-3.4.4-hecd8cb5_1 
+  ncurses            pkgs/main/osx-64::ncurses-6.4-hcec6c5f_0 
+  openssl            pkgs/main/osx-64::openssl-3.0.15-h46256e1_0 
+  pip                pkgs/main/osx-64::pip-25.0-py311hecd8cb5_0 
+  python             pkgs/main/osx-64::python-3.11.11-h4d6d9e5_0 
+  readline           pkgs/main/osx-64::readline-8.2-hca72f7f_0 
+  setuptools         pkgs/main/osx-64::setuptools-75.8.0-py311hecd8cb5_0 
+  sqlite             pkgs/main/osx-64::sqlite-3.45.3-h6c40b1e_0 
+  tk                 pkgs/main/osx-64::tk-8.6.14-h4d00af3_0 
+  tzdata             pkgs/main/noarch::tzdata-2025a-h04d1e81_0 
+  wheel              pkgs/main/osx-64::wheel-0.45.1-py311hecd8cb5_0 
+  xz                 pkgs/main/osx-64::xz-5.6.4-h46256e1_1 
+  zlib               pkgs/main/osx-64::zlib-1.2.13-h4b97444_1 
+
+### Additionals package installed:
+- numpy
+- scipy
+- pytest
+
+- hypothesis [via pip install, not conda]
+|___ attrs-25.1.0 hypothesis-6.127.2 sortedcontainers-2.4.0
